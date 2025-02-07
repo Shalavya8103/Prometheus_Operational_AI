@@ -1,0 +1,30 @@
+Month,Metric,Region,Product Category,Customer Segment,Marketing Channel,product_seasonality,customer_segment,Repreat Purchase Rate Value
+2024-11-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Fall,Low Value,75.97
+2024-11-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Fall,High Value,54.08
+2024-11-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,High Value,141.87
+2024-11-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Spring,Mid Value,101.54
+2024-11-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Winter,Mid Value,138.22
+2024-11-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Fall,High Value,77.81
+2024-11-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Winter,Low Value,92.9
+2024-11-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,High Value,67.53
+2024-11-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Low Value,138.06
+2024-11-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Fall,Low Value,137.17
+2024-11-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Winter,Low Value,115.97
+2024-11-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,56.94
+2024-11-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,High Value,51.36
+2024-11-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Winter,High Value,143.23
+2024-11-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Fall,Mid Value,143.98
+2024-12-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,High Value,65.94
+2024-12-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,109.39
+2024-12-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Fall,Mid Value,65.06
+2024-12-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Fall,High Value,112.1
+2024-12-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Spring,Mid Value,74.66
+2024-12-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,128.1
+2024-12-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,88.4
+2024-12-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,High Value,59.34
+2024-12-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Spring,Mid Value,54.29
+2024-12-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Fall,Low Value,116.41
+2024-12-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,147.18
+2024-12-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Summer,Mid Value,112.63
+2024-12-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Winter,Low Value,138.76
+2024-12-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Winter,Low Value,134.94

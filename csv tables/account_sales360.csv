@@ -1,0 +1,101 @@
+site_number,customer_no,customer_name,city,state,country,email,phone_number,premise_code,license_type,license_name,license_original_issue_date,license_expiry_date,status,cust_onboarded_dt,engagement_channel,last_engagement_date,recent_purchase_date,customer_segment,email_open_rate,sms_open_rate,last_updated
+1,1,PQS LIQUOR,Los Angeles,CA,US,sales@pqsliquor.com,8104221194,OFF,21,Off-Sale General,22/7/2004,30/6/2024,A,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+1,2,A AND S MARKET,Los Angeles,CA,US,sales@asmarket.com,2879989483,OFF,21,Off-Sale General,09/03/08,30/6/2024,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+1,3,RITE STORE 5457,Los Angeles,CA,US,sales-5457@ritestore.com,6287884190,OFF,21,Off-Sale General,19/6/2000,30/6/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+1,4,BIGG 7 LIQUOR,Los Angeles,CA,US,sales@bigg7liquor.com,9695778897,OFF,21,Off-Sale General,04/11/09,30/6/2024,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+1,5,RALPPS 126,Los Angeles,CA,US,sales-126@ralpps.com,2879989484,OFF,21,Off-Sale General,12/03/08,30/6/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+1,6,WESTWAYS MARKET & WINE,Los Angeles,CA,US,sales@westways.com,2879989485,OFF,21,Off-Sale General,08/10/06,30/6/2024,A,2021-08-08,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+1,7,Verchers Liquor,Los Angeles,CA,US,sales@verchersliquor.com,2879989486,OFF,21,Off-Sale General,09/10/06,30/6/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+1,8,Hankook Super Store,Los Angeles,CA,US,sales@hankooksuperstore.com,2879189486,OFF,21,Off-Sale General,10/10/06,30/6/2024,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+1,9,Jacks Markets,Los Angeles,CA,US,sales@jacksmarkets.com,2889189486,OFF,21,Off-Sale General,22/7/2005,28/2/2025,A,2023-01-12,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+1,10,J & J,Los Angeles,CA,US,sales@jnj.com,2879989489,BOTH,21,Off-Sale General,22/7/2006,28/2/2025,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+1,11,Leeds Liquor,Los Angeles,CA,US,sales@leedsliquor.com,2879989490,OFF,21,Off-Sale General,09/02/02,28/2/2025,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+1,12,Mashen Liquor Store,Los Angeles,CA,US,sales@mashenliquorstore.com,2871989494,OFF,21,Off-Sale General,10/02/02,28/2/2025,I,2021-08-08,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+1,14,Louis Liquor Store,Los Angeles,CA,US,sales@louisliquorstore.com,2879989492,OFF,21,Off-Sale General,10/03/08,31/7/2024,I,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+1,15,RALPPS 40,Los Angeles,CA,US,sales-44@ralpps.com,2871989495,OFF,21,Off-Sale General,11/03/08,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+1,16,BOGIEZ LIQUOR,Los Angeles,CA,US,sales@bogiezliquor.com,2871989496,OFF,21,Off-Sale General,14/2/2005,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12
+1,17,Oxidental Liquor,Los Angeles,CA,US,sales@oxidentalliquor.com,2871989497,OFF,21,Off-Sale General,14/2/2006,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,49%,31%,2023-01-12
+1,18,CVK Pharmacy 8488,Los Angeles,CA,US,sales-8488@cvkpharmacy.com,2879989491,OFF,21,Off-Sale General,15/2/2007,31/7/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,53%,35%,2023-01-12
+1,19,Jose Liquor,Los Angeles,CA,US,sales@joseliquor.com,2871989502,OFF,21,Off-Sale General,14/2/2008,31/7/2024,A,2021-08-08,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+1,20,A AND M LIQUOR MARKET,Los Angeles,CA,US,sales@amliquormarket.com,2871989504,OFF,21,Off-Sale General,17/2/2009,31/7/2024,A,2021-08-08,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+1,21,RITE STORE 5450,Los Angeles,CA,US,sales-5450@ritestore.com,2871989505,OFF,21,Off-Sale General,29/7/2004,30/6/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+1,22,Wess Liquor Store and Market,Los Angeles,CA,US,sales@wessliquorstore.com,2879989487,OFF,21,Off-Sale General,09/03/08,31/8/2024,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+1,23,Silmas Supermarket,Los Angeles,CA,US,sales@silmasmarket.com,2879989488,OFF,21,Off-Sale General,22/11/1993,31/10/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+1,24,Holiday Liquor & Deli,Los Angeles,CA,US,sales@holidayliquoranddeli.com,2871989498,BOTH,21,Off-Sale General,06/10/09,28/2/2025,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+1,25,Spirit Shop & Deli,Los Angeles,CA,US,sales@goldenliquors.com,2871989499,BOTH,21,Off-Sale General,05/12/04,30/4/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+1,26,El Abode Liquor,Los Angeles,CA,US,sales@elabodeliquor.com,2871989500,OFF,21,Off-Sale General,08/04/06,31/7/2024,S ,2023-01-12,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+1,27,Millennium Supermarket,Los Angeles,CA,US,sales@millenniumsupermarket.com,2871989501,OFF,21,Off-Sale General,11/02/87,31/1/2024,S ,2021-08-08,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+1,28,Liquor Mart,Los Angeles,CA,US,sales@liquormart.com,2871989503,OFF,21,Off-Sale General,21/3/2003,31/7/2024,S ,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+1,29,San Antonio Wine and Liquor,Los Angeles,CA,US,sales@sanantoniowineandliquor.com,2879989493,BOTH,21,Off-Sale General,27/7/1954,30/6/2024,S ,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+1,30,Vonns Mart,Los Angeles,CA,US,sales@vonnsmart.com,2879989494,OFF,21,Off-Sale General,01/01/94,30/6/2023,S,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+1,31,Lin Beverages & Fine Wine,Los Angeles,CA,US,sales@linbeveragesandfinewine.com,2871989605,BOTH,21,Off-Sale General,10/11/07,30/9/2023,S ,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+1,32,Luzia,Los Angeles,CA,US,sales@luzia.com,9104221194,ON,47,On-sale General – Eating Place,22/7/2002,30/6/2024,S ,2021-08-08,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+1,33,Bazic,Los Angeles,CA,US,sales@bazic.com,3879989483,ON,47,On-sale General – Eating Place,09/03/08,30/6/2023,S ,2021-08-08,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12
+1,34,Tele Barcelona,Los Angeles,CA,US,sales@telebarcelone.com,6287884191,ON,47,On-sale General – Eating Place,19/6/2000,30/6/2024,S ,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,49%,31%,2023-01-12
+1,35,Hotel Westwood,Los Angeles,CA,US,sales@hotelwestwood.com,9495778897,ON,47,On-sale General – Eating Place,04/11/10,30/6/2024,S ,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,53%,35%,2023-01-12
+1,36,Bowlero Vista,Los Angeles,CA,US,sales@bowlerovista.com,3879989484,ON,47,On-sale General – Eating Place,12/03/08,30/6/2024,A,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+1,37,Palmero Restaurant,Los Angeles,CA,US,sales@palmero.com,3879989485,ON,47,On-sale General – Eating Place,08/10/12,30/6/2024,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+1,38,Shintorio Restaurant,Los Angeles,CA,US,sales@shintorio.com,3879989486,ON,47,On-sale General – Eating Place,09/10/06,30/6/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+1,39,Ohayon Wine&Dine,Los Angeles,CA,US,sales@ohayon.com,3879189486,BOTH,47,On-sale General – Eating Place,11/10/06,30/6/2024,A,2023-01-12,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+1,40,Vibrant Grill Jazz,Los Angeles,CA,US,sales@vibrantgrilljazz.com,3889189486,ON,47,On-sale General – Eating Place,14/7/2005,28/2/2025,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+1,41,Red Tiger Tavern,Los Angeles,CA,US,sales@redtigertavern.com,3879989489,ON,47,On-sale General – Eating Place,22/7/2016,28/2/2025,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+1,42,Los Globes,Los Angeles,CA,US,sales@losglobes.com,3879989490,ON,47,On-sale General – Eating Place,09/02/02,28/2/2025,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+1,43,Thai Plaza,Los Angeles,CA,US,sales@thatthaipalace.com,3871989494,ON,47,On-sale General – Eating Place,10/02/12,28/2/2025,A,2023-01-12,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+1,44,Garbalinda,Los Angeles,CA,US,sales@garbalinda.com,3879989492,ON,47,On-sale General – Eating Place,10/03/92,31/7/2024,A,2023-01-12,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+1,45,Hollywood at the El Rado,Los Angeles,CA,US,sales@hollywoodattheelrado.us,3871989495,ON,47,On-sale General – Eating Place,11/03/08,31/7/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+1,46,OLDFIELD'S LIQUOR ROOM,Los Angeles,CA,US,sales@oldfieldsliquorroom.us,3871989496,BOTH,48,On-sale General – Public Premises,25/10/2008,31/7/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+1,47,Short Stop Plaza,Los Angeles,CA,US,sales@shortstopplaza.us,3871989497,ON,48,On-sale General – Public Premises,18/11/2008,31/7/2024,A,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+1,48,GiantFoot Lodge,Los Angeles,CA,US,sales@giantfootplaza.us,3879989491,ON,48,On-sale General – Public Premises,14/12/2005,31/7/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+1,49,Eagle La Plaza,Los Angeles,CA,US,sales@eaglelaplaza.us,3871989502,ON,48,On-sale General – Public Premises,02/04/06,31/7/2024,S ,2021-08-08,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+1,50,Palace Theatre,Los Angeles,CA,US,sales@palacetheatre.us,3871989504,ON,48,On-sale General – Public Premises,15/2/2011,31/7/2024,S,2021-08-08,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12
+1,51,Crown Downtown,Los Angeles,CA,US,sales@crowndowntown.us,3871989505,ON,48,On-sale General – Public Premises,14/12/2008,31/7/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,49%,31%,2023-01-12
+1,52,Little Cocktails LLC,Los Angeles,CA,US,sales@littlecocktails.us,3879989487,ON,48,On-sale General – Public Premises,17/2/2009,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,53%,35%,2023-01-12
+1,53,90's Lounge,Los Angeles,CA,US,sales@90slounge.us,3879989488,ON,48,On-sale General – Public Premises,29/7/2004,30/6/2024,A,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+1,54,Penthouse Lounge,Los Angeles,CA,US,sales@penthouselounge.us,3871989498,ON,48,On-sale General – Public Premises,05/03/08,31/8/2024,A,2021-08-08,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+1,55,EightyNine/89,Los Angeles,CA,US,sales@eightynine.us,3871989499,ON,48,On-sale General – Public Premises,11/02/93,31/10/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+1,56,Hollywood Hookah Lounge,Los Angeles,CA,US,sales@hollywoodhookahlounge.us,3871989500,ON,48,On-sale General – Public Premises,06/10/09,28/2/2025,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+1,57,King Eddy Saloon,Los Angeles,CA,US,sales@kingeddysaloon.us,3871989501,ON,48,On-sale General – Public Premises,05/12/10,30/4/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+1,58,The Simple Bar,Los Angeles,CA,US,sales@thesimplebar.us,3871989503,ON,48,On-sale General – Public Premises,08/04/06,31/7/2024,A,2021-08-08,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+1,59,Brennan's,Los Angeles,CA,US,sales@brennan.us,3879989493,ON,48,On-sale General – Public Premises,11/02/97,31/1/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+1,60,The Greyson Bar,Los Angeles,CA,US,sales@greysonbar.us,3879989494,ON,48,On-sale General – Public Premises,21/3/1999,31/7/2024,A,2023-01-12,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+2,1,Sacramento Spirits,Sacramento,CA,US,sales@sacramentospirits.com,4879989484,OFF,21,Off-Sale General,22/7/2004,30/6/2024,A,2023-01-12,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+2,2,Sacramento Liquor,Sacramento,CA,US,sales@sacramentoliquor.com,4879989485,OFF,21,Off-Sale General,09/03/08,30/6/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+2,3,The Nightlife,Sacramento,CA,US,sales@thenightlife.us,4879989486,ON,48,On-sale General – Public Premises,19/6/2000,30/6/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+2,4,Sacramento Pub,Sacramento,CA,US,sales@sacrementoclub.com,4879189486,ON,48,On-sale General – Public Premises,04/11/09,30/6/2024,A,2021-08-08,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+3,1,San Diego Wine & Spirits,San Diego,CA,US,sales@sandiegowinenspirits.com,4889189486,OFF,21,Off-Sale General,12/03/08,30/6/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+4,1,San Francisco Liquor,San Francisco,CA,US,sales@sanfranciscoliquor.us,4879989489,OFF,21,Off-Sale General,08/10/06,30/6/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+4,2,Lincoln Market,San Francisco,CA,US,sales@lincolnmarket.com,4879989490,OFF,21,Off-Sale General,09/10/06,30/6/2024,S,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12
+4,3,JFK Value Village,San Francisco,CA,US,sales@jfkvaluevillage.com,4871989494,OFF,21,Off-Sale General,10/10/06,30/6/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,49%,31%,2023-01-12
+4,4,Washington Mart,San Francisco,CA,US,sales@martwashington.com,4879989492,OFF,21,Off-Sale General,22/7/2005,28/2/2025,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,53%,35%,2023-01-12
+4,5,Hamilton Restaurant,San Francisco,CA,US,sales@hamilton.com,4871989495,BOTH,41,On-sale Beer & Wine - Eating Place,22/7/2006,28/2/2025,A,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+4,6,Tubman SuperSave,San Francisco,CA,US,sales@tubmansupersave.us,4871989496,OFF,21,Off-Sale General,09/02/02,28/2/2025,A,2021-08-08,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+4,7,San Francisco Tavern,San Francisco,CA,US,sales@friscotavern.com,4871989497,ON,48,On-sale General – Public Premises,22/7/2002,30/6/2024,S,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+4,8,Marina Lounge,San Francisco,CA,US,sales@marinalounge.us,4879989491,ON,48,On-sale General – Public Premises,09/03/08,30/6/2024,A,2023-01-12,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+5,1,Silicon Valley Bar,San Jose,CA,US,sales@siliconvalleybar.us,4871989502,ON,48,On-sale General – Public Premises,19/6/2000,30/6/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+5,2,San Jose Liquor,San Jose,CA,US,sales@sanjoseliquor.com,4871989504,OFF,21,Off-Sale General,10/02/02,28/2/2025,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+6,1,Colorado Springs Liquor,Colorado Springs,CO,US,sales@coloradospringsliquor.com,4871989505,OFF,Retail Liquor Store,Colorado Springs Liquor ,10/03/08,31/7/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+6,2,Rocky Mountain Saloon,Colorado Springs,CO,US,sales@rockymountainsloon.com,4879989487,ON,Tavern License,Rocky Mountain Saloon,25/10/2014,31/7/2024,A,2023-01-12,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+7,1,Mile High Pub,Denver,CO,US,sales@milehighpub.com,4879989488,ON,Brew Pub,Mile High Pub,18/11/2018,31/7/2024,A,2023-01-12,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+7,2,Denver Wine & Spirits,Denver,CO,US,sales@denverwinenspirits.com,4871989498,OFF,Retail Liquor Store,Denver Wine & Spirits,11/03/08,31/7/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+8,1,Fort Lauderdale Liquor,Fort Lauderdale,FL,US,sales@fortlauderdalespirits.com,4871989499,OFF,3APS,3APS License,14/2/2005,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+8,2,Miami MegaMart,Miami,FL,US,sales@miamimegamart.com,4871989500,OFF,3APS,3APS License,14/2/2006,31/7/2024,S,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+8,3,Roosevelt Discount,Miami,FL,US,sales@rooseveltdiscountmiami.com,4871989501,OFF,3APS,3APS License,15/2/2007,31/7/2024,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+8,4,Hamilton SuperSaver,Miami,FL,US,sales@hamiltonsupersavermiami.com,4871989503,OFF,3APS,3APS License,14/2/2008,31/7/2024,S,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+8,5,Tubman Bargain Bazaar,Miami,FL,US,sales@tubmanbargainbazaarmiami.com,4879989493,OFF,3APS,3APS License,17/2/2009,31/7/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12
+8,6,Miami Value Plaza,Miami,FL,US,sales@miamivalueplaza.com,4879989494,BOTH,3COP,3COP License,29/7/2004,30/6/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,49%,31%,2023-01-12
+8,7,Ft. Lauderdale Bar,Fort Lauderdale,FL,US,sales@ftlauderdalebarmiami.com,4871989605,ON,4COP,4COP License,21/11/2008,31/7/2024,A,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,53%,35%,2023-01-12
+9,1,Fort Myers Fine Spirits,Fort Myers,FL,US,sales@fortmeyersfinespirits.com,5879989484,OFF,2APS,2APS License,09/03/08,31/8/2024,A,2021-08-08,Both,2021-08-08,2021-08-08,Loyal,85%,60%,2021-08-08
+9,2,Palm Beach Pub,Fort Myers,FL,US,sales@palmbeachpubflorida.com,5879989485,ON,4COP,4COP License,11/03/08,31/7/2024,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,90%,70%,2021-08-08
+10,1,Jacksonville Liquor,Jacksonville,FL,US,sales@jacksonvilleliquor.com,5879989486,OFF,2APS,2APS License,22/11/1993,31/10/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,50%,30%,2021-08-08
+10,2,Riverside Tavern,Jacksonville,FL,US,sales@riversidetavernflorida.com,5879189486,ON,4COP,4COP License,22/11/1993,31/10/2024,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,92%,75%,2023-01-12
+11,1,Tampa Bay Spirits,Tampa,FL,US,sales@tampabayspiritsshop.com,5889189486,OFF,2APS,2APS License,06/10/09,28/2/2025,A,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,45%,20%,2021-08-08
+11,2,Bayfront Bar,Tampa,FL,US,sales@bayfrontbarflorida.com,5879989489,ON,4COP,4COP License,06/10/09,28/2/2025,A,2023-01-12,On,2021-08-08,2021-08-08,High-Value,88%,65%,2021-08-08
+12,1,Chicago Liquor Outlet,Chicago,IL,US,sales@chicagoliquoroutlet.com,5879989490,BOTH,Class F,General Retailer License,05/12/04,30/4/2024,A,2023-01-12,Off,2023-01-12,2023-01-12,Low-Value,40%,15%,2023-01-12
+12,2,Lincoln Mart,Chicago,IL,US,sales@lincolnmartil.com,5871989494,OFF,Class B,General Retailer License,12/03/08,30/6/2024,A,2021-08-08,On,2023-01-12,2023-01-12,High-Value,85%,80%,2023-01-12
+12,3,Washington Buy,Chicago,IL,US,sales@wabuyil.com,5879989492,OFF,Class B,General Retailer License,08/10/12,30/6/2024,A,2023-01-12,Both,2023-01-12,2023-01-12,Loyal,90%,72%,2023-01-12
+12,4,Roosevelt Plaza,Chicago,IL,US,sales@rooseveltplazail.com,5871989495,BOTH,Class F,General Retailer License,09/10/06,30/6/2024,A,2021-08-08,Off,2021-08-08,2021-08-08,Low-Value,48%,28%,2021-08-08
+12,5,Jefferson Saver,Chicago,IL,US,sales@jeffersonsaveril.com,5871989496,OFF,Class B,General Retailer License,11/10/06,30/6/2024,I,2021-08-08,Off,2023-01-12,2023-01-12,Low-Value,55%,30%,2023-01-12
+12,6,MLK Bargain Barn,Chicago,IL,US,sales@mlkbargainbarnil.com,5871989497,OFF,Class B,General Retailer License,14/7/2005,28/2/2024,S,2023-01-12,Both,2021-08-08,2021-08-08,Loyal,80%,45%,2021-08-08
+12,7,Roosevelt Mart,Chicago,IL,US,sales@rooseveltmartil.com,5879989491,OFF,Class B,General Retailer License,22/7/2016,28/2/2024,S,2023-01-12,Off,2021-08-08,2021-08-08,Low-Value,35%,25%,2021-08-08
+12,8,Lincoln Discount,Chicago,IL,US,sales@lincolndiscountil.com,5871989502,OFF,Class B,General Retailer License,09/02/02,28/2/2025,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,60%,50%,2023-01-12
+12,9,Washington Plus,Chicago,IL,US,sales@waplusil.com,5871989504,OFF,Class B,General Retailer License,10/02/12,28/2/2025,A,2023-01-12,Off,2023-01-12,2023-01-12,Seasonal,58%,52%,2023-01-12

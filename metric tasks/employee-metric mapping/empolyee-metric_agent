@@ -1,0 +1,51 @@
+import json
+from textwrap import dedent
+from agno.agent import Agent
+from agno.models.groq import Groq
+from agno.tools.python import PythonTools
+from agno.tools.pandas import PandasTools
+import pandas as pd
+
+
+# Load the `employees.csv` and `metrics.csv` files
+employees_df = pd.read_csv('employees.csv')
+metrics_df = pd.read_csv('metrics.csv')
+
+dataframes={"employees": employees_df, "metrics": metrics_df}
+# Define the Agent
+agent = Agent(
+    model=Groq(id="llama-3.3-70b-versatile", api_key="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"),
+    tools=[PandasTools()],
+    show_tool_calls=True,
+    description=dedent("""\
+        You are an AI agent responsible for mapping employees to the business metrics they need access to.
+        Given employee details in a dataframe(department, role, responsibilities, and focus area),
+        you will determine which employees should have access to specific business metrics. The metrics are defined in a separate dataframe.
+        The output should be structured as a JSON file, listing employees and the corresponding metrics they need.
+    """),
+    instructions=dedent("""\
+        1. **Analyze Employee Dataframe**: Each employee has a department, role, responsibilities, and focus area.
+        2. **Analyze Metrics Dataframe**: Each metric has different usage and relevance to different departments and roles.
+        2. **Analyze which Employees need which metrics**:
+            - Example:
+            - Sales Department → Metrics related to Revenue, Average Order Value, and Repeat Purchase Rate.
+        3. **Give the list of Metrics per employee**:
+            - Create a JSON structure where each employee is mapped to their relevant metrics.
+    """),
+    expected_output=dedent("""\
+        {
+            "employees": [
+                {
+                    "employee_id":,
+                    "name":,
+                    "department": ,
+                    "role":,
+                    "focus_area":,
+                    "relevent_metrics": []
+                }
+    """)
+)
+
+response = agent.print_response(" The employees data is present in the employees df and metrics data is present in metrics df. Map the employees to the relevant metrics based on their department, role, responsibilities, and focus area.",
+                            stream=True,
+                            dataframes=dataframes)

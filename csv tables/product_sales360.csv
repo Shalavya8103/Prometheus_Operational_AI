@@ -1,0 +1,61 @@
+item_no,product_name,brand_name,prod_category,prod_sub_category,flavor,vintage,varietal,product_size,bottles_per_case,unit_price,corp_item_suppl_name,warehouse_no,average_rating,review_count,stock_status,last_restock_date,warranty_period
+10101,Golden Cascade,Crafty Brews,Beer,Ale,Citrus,,,750ML,6,26,Local Beer Distributors,W010101,4.5,120,In Stock,2024-01-15,24
+10102,Golden Cascade,Crafty Brews,Beer,Ale,Citrus,,,1.0 L,6,34,Local Beer Distributors,W010101,4.2,98,Low Stock,2024-02-01,12
+10103,Golden Cascade,Crafty Brews,Beer,Ale,Citrus,,,12 Z,6,25,Local Beer Distributors,W010101,4.8,210,In Stock,2024-01-20,6
+10201,Midnight Stout,Brewmaster's Delight,Beer,Stout,Vanilla,,,2.0L,6,46,Global Beverages Inc.,W010102,4.6,300,In Stock,2024-02-03,0
+10202,Midnight Stout,Brewmaster's Delight,Beer,Stout,Vanilla,,,500ML,6,25,Global Beverages Inc.,W010102,4.9,530,Out of Stock,2024-01-10,36
+10203,Midnight Stout,Brewmaster's Delight,Beer,Stout,Vanilla,,,250ML,6,40,Global Beverages Inc.,W010102,4.3,87,In Stock,2024-01-28,12
+10301,Hazy Horizon,Sunshine Brewery,Beer,IPA,Hoppy,,,750ML,6,34,Tropical Spirits Co.,W010103,4.7,180,Low Stock,2024-01-25,24
+10302,Hazy Horizon,Sunshine Brewery,Beer,IPA,Hoppy,,,1.0 L,12,43,Tropical Spirits Co.,W010103,4.1,75,In Stock,2024-02-05,0
+10303,Hazy Horizon,Sunshine Brewery,Beer,IPA,Hoppy,,,12 Z,12,31,Tropical Spirits Co.,W010103,4.3,140,In Stock,2024-01-18,24
+10401,Bavarian Breeze,Mystic Ales,Beer,Lager,Malt,,,2.0L,12,41,Regional Drinks Ltd.,W010104,4.6,230,In Stock,2024-01-22,6
+10402,Bavarian Breeze,Mystic Ales,Beer,Lager,Malt,,,500ML,12,33,Regional Drinks Ltd.,W010104,4.4,95,Low Stock,2024-01-30,24
+10403,Bavarian Breeze,Mystic Ales,Beer,Lager,Malt,,,250ML,12,22,Regional Drinks Ltd.,W010104,4.5,112,In Stock,2024-02-02,18
+10501,Belgian Bliss,Tradition Brews,Beer,Belgian Ale,Caramel,,,250ML,12,22,Nightfall Beverages Co.,W010105,4.2,77,In Stock,2024-01-27,24
+10502,Belgian Bliss,Tradition Brews,Beer,Belgian Ale,Caramel,,,750ML,12,22,Nightfall Beverages Co.,W010105,4.3,265,In Stock,2024-02-06,0
+10503,Belgian Bliss,Tradition Brews,Beer,Belgian Ale,Caramel,,,1.0 L,12,38,Nightfall Beverages Co.,W010105,4.1,90,Out of Stock,2024-01-14,24
+30101,Misty Grove Vodka,Misty Grove,Spirits,Vodka,Classic,,,750ML,6,56,Nightfall Beverages Co.,W010105,4.7,189,Low Stock,2024-01-23,6
+30102,Misty Grove Vodka,Misty Grove,Spirits,Vodka,Classic,,,1.0 L,6,57,Nightfall Beverages Co.,W010105,4.9,315,In Stock,2024-02-05,0
+30103,Misty Grove Vodka,Misty Grove,Spirits,Vodka,Classic,,,12 Z,6,48,Nightfall Beverages Co.,W010105,4.8,205,Low Stock,2024-01-21,12
+30201,Ember Elixirs Whiskey,Ember Elixirs,Spirits,Whiskey,Oak and Honey,,,2.0L,6,41,Seeds Spirits.,W010109,4.7,180,In Stock,2024-02-01,24
+30202,Ember Elixirs Whiskey,Ember Elixirs,Spirits,Whiskey,Oak and Honey,,,500ML,6,41,Seeds Spirits.,W010109,4.3,150,In Stock,2024-01-28,24
+30203,Ember Elixirs Whiskey,Ember Elixirs,Spirits,Whiskey,Oak and Honey,,,250ML,6,52,Seeds Spirits.,W010109,4.5,190,In Stock,2024-02-04,0
+30301,Celestial Spirits Gin,Celestial Spirits,Spirits,Gin,Lavender Citrus,,,750ML,6,58,Seeds Spirits.,W010109,4.2,100,Out of Stock,2024-01-12,24
+30302,Celestial Spirits Gin,Celestial Spirits,Spirits,Gin,Lavender Citrus,,,1.0 L,12,45,Seeds Spirits.,W010109,4.5,215,In Stock,2024-01-29,6
+30303,Celestial Spirits Gin,Celestial Spirits,Spirits,Gin,Lavender Citrus,,,12 Z,12,59,Seeds Spirits.,W010109,4.6,280,In Stock,2024-02-06,0
+30401,Stormy Harbor Rum,Stormy Harbor,Spirits,Rum,Vanilla Spice,,,2.0L,12,57,Gates Brewing Company,W010110,4.3,145,Low Stock,2024-01-26,18
+30402,Stormy Harbor Rum,Stormy Harbor,Spirits,Rum,Vanilla Spice,,,500ML,12,54,Gates Brewing Company,W010110,4.4,135,In Stock,2024-02-01,24
+30403,Stormy Harbor Rum,Stormy Harbor,Spirits,Rum,Vanilla Spice,,,250ML,12,51,Gates Brewing Company,W010110,4.5,125,In Stock,2024-01-30,18
+30501,Alpine Peaks Distillery Liqueur,Alpine Peaks Distillery,Spirits,Liqueur,Alpine Mint,,,250ML,12,47,Holdings,W010111,4.8,310,In Stock,2024-02-04,0
+30502,Alpine Peaks Distillery Liqueur,Alpine Peaks Distillery,Spirits,Liqueur,Alpine Mint,,,750ML,12,60,Holdings,W010111,4.6,200,Low Stock,2024-01-22,12
+30503,Alpine Peaks Distillery Liqueur,Alpine Peaks Distillery,Spirits,Liqueur,Alpine Mint,,,1.0 L,12,44,Holdings,W010111,4.7,220,In Stock,2024-01-27,6
+40101,QuenchBliss,Hydrate Harmony,Non-Alcoholic Beverages,Refreshment Beverage,Cucumber Mint,,,12 Z,6,37,AquaFusion,W010112,4.5,120,In Stock,2024-01-15,24
+40102,QuenchBliss,Hydrate Harmony,Non-Alcoholic Beverages,Refreshment Beverage,Cucumber Mint,,,2.0L,6,20,AquaFusion,W010112,4.2,98,Low Stock,2024-02-01,12
+40103,QuenchBliss,Hydrate Harmony,Non-Alcoholic Beverages,Refreshment Beverage,Cucumber Mint,,,500ML,6,30,AquaFusion,W010112,4.8,210,In Stock,2024-01-20,6
+40201,PurePress Elixer,Wellness Waves,Non-Alcoholic Beverages,Functional Tonic,Lavender Chamomile,,,250ML,6,21,HerbCraft Creations,W010114,4.6,300,In Stock,2024-02-03,0
+40202,PurePress Elixer,Wellness Waves,Non-Alcoholic Beverages,Functional Tonic,Lavender Chamomile,,,750ML,6,23,HerbCraft Creations,W010114,4.9,530,Out of Stock,2024-01-10,36
+40203,PurePress Elixer,Wellness Waves,Non-Alcoholic Beverages,Functional Tonic,Lavender Chamomile,,,1.0 L,6,40,HerbCraft Creations,W010114,4.3,87,In Stock,2024-01-28,12
+40301,ReviveRoots Sparkle,Vibrant Brews,Non-Alcoholic Beverages,Sparkling Infusion,Citrus Burst,,,12 Z,6,31,Bubbly Nectar Co.,W010115,4.7,180,Low Stock,2024-01-25,24
+40302,ReviveRoots Sparkle,Vibrant Brews,Non-Alcoholic Beverages,Sparkling Infusion,Citrus Burst,,,2.0L,12,22,Bubbly Nectar Co.,W010115,4.1,75,In Stock,2024-02-05,0
+40303,ReviveRoots Sparkle,Vibrant Brews,Non-Alcoholic Beverages,Sparkling Infusion,Citrus Burst,,,500ML,12,32,Bubbly Nectar Co.,W010115,4.3,140,In Stock,2024-01-18,24
+40401,ZenZest Harmony Tea,Serene Sips,Non-Alcoholic Beverages,Artisan Tea Blend,Jasmine Rose,,,250ML,12,28,Tranquil Teas Ltd.,W010116,4.6,230,In Stock,2024-01-22,6
+40402,ZenZest Harmony Tea,Serene Sips,Non-Alcoholic Beverages,Artisan Tea Blend,Jasmine Rose,,,750ML,12,39,Tranquil Teas Ltd.,W010116,4.4,95,Low Stock,2024-01-30,24
+40403,ZenZest Harmony Tea,Serene Sips,Non-Alcoholic Beverages,Artisan Tea Blend,Jasmine Rose,,,1.0 L,12,47,Tranquil Teas Ltd.,W010116,4.5,112,In Stock,2024-02-02,18
+40501,FruitFusion Splash,Fresh Delight,Non-Alcoholic Beverages,Fruit Infusion,Mixed Berry Bliss,,,250ML,12,30,Orchard Essence Co.,W010117,4.2,77,In Stock,2024-01-27,24
+40502,FruitFusion Splash,Fresh Delight,Non-Alcoholic Beverages,Fruit Infusion,Mixed Berry Bliss,,,12 Z,12,20,Orchard Essence Co.,W010117,4.3,265,In Stock,2024-02-06,0
+40503,FruitFusion Splash,Fresh Delight,Non-Alcoholic Beverages,Fruit Infusion,Mixed Berry Bliss,,,2.0L,12,36,Orchard Essence Co.,W010117,4.1,90,Out of Stock,2024-01-14,24
+20401,Harmony Hills Merlot,Harmony Hills Winery,Wine,Red Wine,Red Berry,1953,Merlot,2.0L,12,52,Regional Drinks Ltd.,W010104,4.7,189,Low Stock,2024-01-23,6
+20402,Harmony Hills Merlot,Harmony Hills Winery,Wine,Red Wine,Red Berry,1944,Merlot,500ML,12,58,Regional Drinks Ltd.,W010104,4.9,315,In Stock,2024-02-05,0
+20403,Harmony Hills Merlot,Harmony Hills Winery,Wine,Red Wine,Red Berry,2010,Merlot,250ML,12,42,Regional Drinks Ltd.,W010104,4.8,205,Low Stock,2024-01-21,12
+20501,Sunset Rosé Elegance,Twilight Vineyards,Wine,Rosé Wine,Strawberry,1999,Grenache,250ML,12,56,Nightfall Beverages Co.,W010120,4.7,180,In Stock,2024-02-01,24
+20502,Sunset Rosé Elegance,Twilight Vineyards,Wine,Rosé Wine,Strawberry,2000,Grenache,750ML,12,46,Nightfall Beverages Co.,W010120,4.3,150,In Stock,2024-01-28,24
+20503,Sunset Rosé Elegance,Twilight Vineyards,Wine,Rosé Wine,Strawberry,1983,Grenache,1.0 L,12,45,Nightfall Beverages Co.,W010120,4.5,190,In Stock,2024-02-04,0
+20301,Noble Cabernet Franc,Grandeur Estates,Wine,Red Wine,Red Currant,1945,Cabernet Franc,750ML,6,49,Grapes & Elegance Estates,W010108,4.2,100,Out of Stock,2024-01-12,24
+20302,Noble Cabernet Franc,Grandeur Estates,Wine,Red Wine,Red Currant,1999,Cabernet Franc,1.0 L,12,42,Grapes & Elegance Estates,W010108,4.5,215,In Stock,2024-01-29,6
+20303,Noble Cabernet Franc,Grandeur Estates,Wine,Red Wine,Red Currant,1992,Cabernet Franc,12 Z,12,59,Grapes & Elegance Estates,W010108,4.6,280,In Stock,2024-02-06,0
+20201,Coastal Harmony Blanc,Seaside Cellars,Wine,White Wine,Green Apple,1945,Sauvignon Blanc,2.0L,6,56,WineHarbor Imports,W010107,4.3,145,Low Stock,2024-01-26,18
+20202,Coastal Harmony Blanc,Seaside Cellars,Wine,White Wine,Green Apple,1945,Sauvignon Blanc,500ML,6,55,WineHarbor Imports,W010107,4.4,135,In Stock,2024-02-01,24
+20203,Coastal Harmony Blanc,Seaside Cellars,Wine,White Wine,Green Apple,2000,Sauvignon Blanc,250ML,6,55,WineHarbor Imports,W010107,4.5,125,In Stock,2024-01-30,18
+20101,OakVine Reserve,Vintage Estates,Wine,Red Wine,Vanilla,1999,Cabernet Sauvignon,750ML,6,56,VineCraft Cellars,W010106,4.8,310,In Stock,2024-02-04,0
+20102,OakVine Reserve,Vintage Estates,Wine,Red Wine,Vanilla,1953,Cabernet Sauvignon,1.0 L,6,50,VineCraft Cellars,W010106,4.8,310,In Stock,2024-02-04,0
+20103,OakVine Reserve,Vintage Estates,Wine,Red Wine,Vanilla,1999,Cabernet Sauvignon,12 Z,6,60,VineCraft Cellars,W010106,4.6,200,Low Stock,2024-01-22,12

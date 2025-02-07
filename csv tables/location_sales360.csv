@@ -1,0 +1,40 @@
+site_number,site_name,site_county,site_state,site_state_name,site_region
+12,Chicago,Cook,IL,Illinois,East
+25,Columbus,Franklin,OH,Ohio,East
+1,Los Angeles,Los Angeles,CA,California,West
+2,Sacramento,Sacramento,CA,California,West
+3,San Diego,San Diego,CA,California,West
+13,Fort Wayne,Allen,IN,Indiana,East
+24,Cincinnati,Hamilton,OH,Ohio,East
+4,San Francisco,San Francisco,CA,California,West
+5,San Jose,Santa Clara,CA,California,West
+6,Colorado Springs,El Paso,CO,Colorado,West
+7,Denver,Denver,CO,Colorado,West
+27,Medford,Jackson County,OR,Oregon,West
+28,Portland,Multnomah,OR,Oregon,West
+37,Puyallup,Pierce,WA,Washington,West
+38,Seattle,King,WA,Washington,West
+39,Spokane,Spokane,WA,Washington,West
+21,New York,New York,NY,New York,North
+22,Rochester,Monroe,NY,New York,North
+23,Syracuse,Onondaga,NY,New York,North
+29,King of Prussia,Montogomery,PA,Pennsylvania,North
+8,Fort Lauderdale,Broward,FL,Florida,South
+9,Fort Myers,Lee,FL,Florida,South
+10,Jacksonville,Duval,FL,Florida,South
+11,Tampa,Hillsborough,FL,Florida,South
+14,Baton Rouge,East Baton Rouge Parish,LA,Louisiana,South
+15,Lafayette,Lafayette Parish,LA,Louisiana,South
+16,Baltimore,Baltimore,MD,Maryland,South
+26,Tulsa,Tulsa,OK,Oklahoma,South
+30,Charleston,Charleston,SC,South Carolina,South
+31,Columbia,Richland,SC,South Carolina,South
+32,Greenville,Greenville,SC,South Carolina,South
+33,Amarillo,Potter,TX,Texas,South
+34,Austin,Travis,TX,Texas,South
+35,Longview,Gregg,TX,Texas,South
+36,San Antonio,Bexar,TX,Texas,South
+17,Minneapolis,Hennepin,MN,Minnesota,Central
+18,Kansas City,Jackson,MO,Missouri,Central
+19,SpringField,Hampden,MO,Missouri,Central
+20,Omaha,Douglas,NE,Nebraska,Central
